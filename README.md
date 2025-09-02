@@ -1,19 +1,6 @@
-# 🐍 Flask Snake Game (Dockerized)
+# Flask Snake Game (Dockerized)
 
-A simple **Snake Game** built with **Flask (Python)** and rendered using **HTML, CSS, and JavaScript (Canvas API)**.  
-This repository is primarily designed to demonstrate **containerization** and **deployment** practices using Docker.  
-
----
-
-## 🚀 Features
-- Web-based classic Snake Game
-- Lightweight Python Flask backend
-- Simple HTML/CSS/JS frontend
-- Fully containerized using **Docker**
-- Easy to run locally or deploy on cloud/Kubernetes
-
----
-
+A simple **Snake Game** built with **Flask (Python) and containerized **.  
 ---
 
 ## 🐳 Docker Setup
