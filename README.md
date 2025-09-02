@@ -1,6 +1,6 @@
-# Flask Snake Game (Dockerized)
+# Flask Snake Game
 
-A simple **Snake Game** built with **Flask (Python) and containerized **.  
+A simple snake game built with and containerized.  
 ---
 
 ## 🐳 Docker Setup
