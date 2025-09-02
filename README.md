@@ -1,7 +1,7 @@
 # Flask Snake Game
 
 ### A simple snake game built with and containerized. ### 
----
+***
 
 ### 🐳 Docker Setup
 ---
