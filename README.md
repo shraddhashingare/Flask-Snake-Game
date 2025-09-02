@@ -3,7 +3,7 @@
 ### A simple snake game built with and containerized. ### 
 
 
-### 🐳 Docker Setup
+#### 🐳 Docker Setup
 ---
 ### 1️⃣ Build Docker Image 
 ```bash
