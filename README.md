@@ -4,7 +4,7 @@
 ---
 
 ### 🐳 Docker Setup
-
+---
 ### 1️⃣ Build Docker Image 
 ```bash
 docker build -t flask-snake-game .
