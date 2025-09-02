@@ -16,4 +16,5 @@ docker run -d -p 5000:5000 flask-snake-game
 http://localhost:5000
 ```
 # Screenshots
-<img width="1157" height="872" alt="Screenshot 2025-09-02 194443" src="https://github.com/user-attachments/assets/0eb20dfe-e5a2-41e6-bc98-f93272f55362" />
+<img width="608" height="389" alt="image" src="https://github.com/user-attachments/assets/36e43200-c779-4935-ad32-23e469334615" />
+
